@@ -56,7 +56,6 @@ Supermarket-Billing-System/
 ├── product.py
 ├── item.py
 ├── products.json
-└── README.md
 ```
 
 ---
